@@ -25,21 +25,25 @@ The analysis will be based on the cleaned dataset, which includes the following 
 * Crew: The number of crew members on the ship.
 
 ## Problem Definition
+The cruise industry is facing increasing scrutiny over its environmental impact. Key sustainability challenges include high fuel consumption, waste management, and carbon emissions. Understanding the relationship between ship characteristics and their operational efficiency is crucial for developing strategies to enhance sustainability.
 
 ### Relevance:
+* Environmental Concerns: The cruise industry has been criticized for its substantial environmental footprint. Ships consume large quantities of fuel, resulting in significant greenhouse gas emissions. Additionally, waste management practices on board can impact marine ecosystems.
+* Regulatory Pressure: Governments and international bodies are implementing stricter regulations to reduce the environmental impact of maritime operations. Cruise lines must adapt to these regulations to remain compliant and avoid penalties.
+* Consumer Awareness: There is growing consumer demand for sustainable travel options. Passengers are increasingly considering the environmental impact of their travel choices, and cruise lines are responding by marketing themselves as environmentally responsible.
+* Operational Efficiency: Improving operational efficiency can lead to reduced fuel consumption and lower emissions. Understanding how ship characteristics such as age, tonnage, and passenger density influence operational efficiency is essential for developing strategies to enhance sustainability.
 
 ## Hypothesis
-Older ships, larger ships (in terms of tonnage and length), and ships with higher passenger density have a greater environmental impact, characterized by higher fuel consumption and emissions. By identifying these relationships, we can target specific areas for improvement to enhance sustainability in the cruise industry.
+Older ships, larger ships (in terms of tonnage and length), and ships with higher passenger density have a greater environmental impact, characterized by higher fuel consumption and emissions.
 
 ## Vision
 To transform the cruise industry into a model of environmental stewardship by leveraging data-driven insights to optimize ship operations, reduce emissions, and promote sustainable practices. This vision aims to ensure that cruising remains a viable and environmentally responsible travel option for future generations.
 
 ## Objective
+The primary objective of this analysis is to gain a comprehensive understanding of the relationship between ship characteristics and operational efficiency within the cruise industry. By analyzing the available dataset and exploring the factors that impact sustainability, this report aims to address the following objectives:
 * Analyze Ship Characteristics: Examine the dataset to understand how various ship characteristics (age, tonnage, passengers, length, cabins, passenger density, and crew) relate to operational efficiency.
 * Identify Sustainability Indicators: Determine which factors are most strongly associated with high fuel consumption and emissions. Identify key indicators that can help predict a ship's environmental impact.
 * Provide Recommendations: Based on the analysis, provide actionable recommendations for cruise lines to improve their sustainability practices. This may include strategies for fleet management, retrofitting older ships, or optimizing passenger density.
-
-### OUR ASK
 
 ## Review of the Literature
 

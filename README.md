@@ -1,5 +1,5 @@
-# Title
-Subtitle
+# Sustainability in the Cruise Industry
+Explore the environmental impact of cruise ships based on their operational characteristics
 
 ## Getting Started: 
 1. Report and presentation

@@ -5,11 +5,11 @@ Subtitle
 1. Report and presentation
 2. data/: Contains cleaned datasets used for the analysis
 3. notebooks/: Jupyter notebooks
-4. visualizations/: Tableau visualizations and dashboard
+4. visualizations/: PowerBI visualizations and dashboard
 5. scripts/: Python and SQL scripts for data analysis
 
 ### Tools:
-Excel, Jupyter, Python, SQL, Tableau
+Excel, Jupyter, Python, SQL, PowerBI
 
 ### Data Sources:
 

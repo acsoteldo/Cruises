@@ -46,13 +46,7 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 * Provide Recommendations: Based on the analysis, provide actionable recommendations for cruise lines to improve their sustainability practices. This may include strategies for fleet management, retrofitting older ships, or optimizing passenger density.
 
 ## Review of the Literature
-https://eprints.glos.ac.uk/3827/
-https://onlinelibrary.wiley.com/doi/abs/10.1002/pa.1609
-https://www.journal-uamd.org/index.php/IJRD/article/view/198
-https://www.researchgate.net/profile/Douglas-Ponton-2/publication/326976833_Representing_Global_Cruise_Tourism_A_Paradox_of_Sustainability/links/5c4fffd6a6fdccd6b5d1754e/Representing-Global-Cruise-Tourism-A-Paradox-of-Sustainability.pdf
-https://ebooks.iospress.nl/doi/10.3233/PMST190015
-https://digitalcommons.fiu.edu/etd/1911/
-https://www.mdpi.com/2071-1050/14/11/6890
+
 
 ## Key Insights
 * 
@@ -67,3 +61,11 @@ For any inquiries or feedback, please contact acsoteldo01@gmail.com.
 
 ## References
 https://www.kaggle.com/datasets/soheiltehranipour/cruise-used-for-pyspark/data
+
+https://eprints.glos.ac.uk/3827/
+https://onlinelibrary.wiley.com/doi/abs/10.1002/pa.1609
+https://www.journal-uamd.org/index.php/IJRD/article/view/198
+https://www.researchgate.net/profile/Douglas-Ponton-2/publication/326976833_Representing_Global_Cruise_Tourism_A_Paradox_of_Sustainability/links/5c4fffd6a6fdccd6b5d1754e/Representing-Global-Cruise-Tourism-A-Paradox-of-Sustainability.pdf
+https://ebooks.iospress.nl/doi/10.3233/PMST190015
+https://digitalcommons.fiu.edu/etd/1911/
+https://www.mdpi.com/2071-1050/14/11/6890
